@@ -46,6 +46,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc) `[38:24]`
 * [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
 * [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q) `[32:30]`
+* [**Keynote: Architecture the Lost Years** - Uncle Bob, Ruby Midwest 2011](https://www.youtube.com/watch?v=WpkDN78P884) `[1:06:38]`
 * [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o) `[38:43]`
 * [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE) `[1:03:25]`
 * [**Practical Event Sourcing** - Mathias Verraes at phpDay 2014](https://vimeo.com/104095245) `[43:38]`
@@ -107,6 +108,8 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg) `[46:31]`
 * [**Standardization, the Symfony Way** - Fabien Potencier at Laracon 2013](https://www.youtube.com/watch?v=0erGiEm07b8) `[1:00:05]`
 * [**The State of Laravel** - Taylor Otwell at Laracon 2014](https://www.youtube.com/watch?v=eyDFr7wCIdE) `[1:00:17]`
+* [**The Tao of Laravel** - Taylor Otwell at Laracon EU 2015](https://www.youtube.com/watch?v=PRFO4YlHHQU&feature=youtu.be)`[32:53]`
+* [**Things Laravel Made Me Believe** - Jeffrey Way at Laracon EU 2015](https://www.youtube.com/watch?v=mDotS5BDqRM) `[53:59]`
 
 [Back to top](#php-must-watch)
 
